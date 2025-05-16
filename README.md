@@ -1,16 +1,15 @@
 # film connoisuer
 ## 📸 Screenshots
-
-###films  
+films  
 ![Films screen](assets/screenshots/filmspg.png)
 
-### login  
+login  
 ![login screen](assets/screenshots/loginpg.png)
 
-### profile  
+profile  
 ![profile screen](assets/screenshots/profilpg.png)
 
-### registration screen
+registration screen
 ![registration screen](assets/screenshots/registerpg.png)
 
 
