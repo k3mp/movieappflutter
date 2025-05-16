@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:trialnderror/configs/colours.dart';
 
 class Films extends StatelessWidget {
-  const Films({Key? key}) : super(key: key);
+  const Films({super.key});
 
   final List<Map<String, dynamic>> movies = const [
     {

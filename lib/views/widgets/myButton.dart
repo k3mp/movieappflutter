@@ -8,13 +8,13 @@ class MyButton extends StatelessWidget {
   final TextStyle? textStyle;
 
   const MyButton({
-    Key? key,
+    super.key,
     required this.onPressed,
     required this.label,
     required this.color,
     this.textColor,
     this.textStyle,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
